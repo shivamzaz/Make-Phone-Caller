@@ -84,14 +84,3 @@ It might be something like `https://asdf456.ngrok.io`. Take note of this.
 Voice "REQUEST URL" to be your ngrok URL plus `/voice`. For example:
 
     ![screenshot of twiml app](https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/TwilioClientRequestUrl.original.png)
-
-You should now be ready to rock! Make some phone calls.
-Open it on another device and call yourself. Note that Twilio Client requires
-WebRTC enabled browsers, so Edge and Internet Explorer will not work for testing.
-We'd recommend Google Chrome or Mozilla Firefox instead.
-
-![screenshot of phone app](https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/TwilioClientQuickstart.original.png)
-
-## License
-
-MIT
