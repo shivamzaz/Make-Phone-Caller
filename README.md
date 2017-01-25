@@ -83,4 +83,4 @@ It might be something like `https://asdf456.ngrok.io`. Take note of this.
 4. [Configure your TwiML app](https://www.twilio.com//console/phone-numbers/dev-tools/twiml-apps)'s
 Voice "REQUEST URL" to be your ngrok URL plus `/voice`. For example:
 
-    ![screenshot of twiml app](https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/TwilioClientRequestUrl.original.png)
+    
