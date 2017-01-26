@@ -1,5 +1,6 @@
 # Make Phone Call free (Anytime-Everytime-Anyone) 
-[checkout here](https://www.shivamzaz2.herokuapp.com)
+[checkout here](www.shivamzaz2.herokuapp.com).
+
 This application should give you a ready-made starting point for writing your
 own voice apps with Twilio Client. Before we begin, we need to collect
 all the config values we need to run the application:
